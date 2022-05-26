@@ -1,10 +1,10 @@
 import './App.css';
-import Doc from './Doc';
+import Variant2 from './Variant2';
 
 function App() {
   return (
     <div className="App">
-      <Doc/>
+      <Variant2/>
     </div>
   );
 }

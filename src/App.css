@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.photo_container {
+  width: 50%;
+  height: 650px;
+  overflow-y: scroll;
+  margin: 50px auto;
+  background: #c5ebf5;
+}

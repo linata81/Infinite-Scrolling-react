@@ -3,7 +3,7 @@ import axios from 'axios';
 // import loading from './Loader.gif'
 
 
-const Doc = () => {
+const Variant1 = () => {
   const [photos, setPhotos] = useState([]);
   const [pageNumber, setPageNumber] = useState(1);
   const [loading, setLoading] = useState(false);
@@ -60,4 +60,4 @@ const Doc = () => {
   );
 }
 
-export default Doc;
+export default Variant1;
